@@ -31,9 +31,7 @@
 
 <br/><br/>
 
-<!-- Spidey Footer -->
-<img src="https://media.tenor.com/UYBAWdHncv4AAAAd/spider-man-across-the-spider-verse.gif" width="100"/>
-<img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="80"/>
+
 
 </div>
 
