@@ -6,25 +6,31 @@
 
 <img src="https://media.tenor.com/jU3MNsXcMbUAAAAd/spider-man-spiderman.gif" width="120"/>
 
-<h2>🕸️ Swinging Through Commits Like Spider-Man 🕷️</h2>
+<!-- 🕸️ Spider-Verse GitHub Stats -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=JaiBansal007&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<div align="center">
 
-<br/>
+<img src="https://media.tenor.com/jU3MNsXcMbUAAAAd/spider-man-spiderman.gif" width="120"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=JaiBansal007&theme=dark&hide_border=false" alt="GitHub Streaks"/>
+<h2>🕷️ My Spider Stats 🕷️</h2>
 
-<br/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=JaiBansal007&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiBansal007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=JaiBansal007&theme=radical&hide_border=false" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiBansal007&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 <br/><br/>
 
-<img src="https://media.tenor.com/LmOYmZgZi80AAAAd/spiderman-swing.gif" width="80"/>
+<!-- Spidey Footer -->
 <img src="https://media.tenor.com/UYBAWdHncv4AAAAd/spider-man-across-the-spider-verse.gif" width="100"/>
 <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="80"/>
 
 </div>
+
 
 
 ## 🌐 Socials:
