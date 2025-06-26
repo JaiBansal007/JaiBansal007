@@ -1,7 +1,15 @@
 # JaiBansal007
 # 📊 GitHub Stats:
-<!-- 🕷️ Spidey Stats Section -->
+<br>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/JaiBansal007/count.svg">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+</div>
+<br>
+<br>
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <div align="center">
 
 <img src="https://media.tenor.com/jU3MNsXcMbUAAAAd/spider-man-spiderman.gif" width="120"/>
@@ -11,8 +19,6 @@
 <div align="center">
 
 <img src="https://media.tenor.com/jU3MNsXcMbUAAAAd/spider-man-spiderman.gif" width="120"/>
-
-<h2>🕷️ My Spider Stats 🕷️</h2>
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=JaiBansal007&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
@@ -85,13 +91,4 @@
 [![](https://visitcount.itsvg.in/api?id=JaiBansal007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<br>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/JaiBansal007/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-</div>
-<br>
-<br>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
