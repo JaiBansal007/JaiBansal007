@@ -1,4 +1,19 @@
 # JaiBansal007
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9ECF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Creative+Problem+Solver;Open+Source+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
+  
+  <p align="center">
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/JaiBansal007/count.svg" />
+  </p>
+
+  <!-- Snake animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaiBansal007/JaiBansal007/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaiBansal007/JaiBansal007/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/JaiBansal007/JaiBansal007/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
@@ -89,3 +104,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JaiBansal007&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
