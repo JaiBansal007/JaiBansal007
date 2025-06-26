@@ -1,10 +1,9 @@
-# JaiBansal007
 <p align="center">
   <img src="cover_img.jpg" alt="cover_img"/>
 </p>
 
 <div align="center">
-
+# JaiBansal007
   <!-- Snake animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaiBansal007/JaiBansal007/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
