@@ -1,8 +1,31 @@
 # JaiBansal007
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JaiBansal007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JaiBansal007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiBansal007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- 🕷️ Spidey Stats Section -->
+
+<div align="center">
+
+<img src="https://media.tenor.com/jU3MNsXcMbUAAAAd/spider-man-spiderman.gif" width="120"/>
+
+<h2>🕸️ Swinging Through Commits Like Spider-Man 🕷️</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=JaiBansal007&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=JaiBansal007&theme=dark&hide_border=false" alt="GitHub Streaks"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiBansal007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://media.tenor.com/LmOYmZgZi80AAAAd/spiderman-swing.gif" width="80"/>
+<img src="https://media.tenor.com/UYBAWdHncv4AAAAd/spider-man-across-the-spider-verse.gif" width="100"/>
+<img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="80"/>
+
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-bansal-423a73280) 
