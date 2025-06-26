@@ -1,11 +1,5 @@
 # JaiBansal007
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9ECF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Creative+Problem+Solver;Open+Source+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
-  
-  <p align="center">
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/JaiBansal007/count.svg" />
-  </p>
 
   <!-- Snake animation -->
   <picture>
