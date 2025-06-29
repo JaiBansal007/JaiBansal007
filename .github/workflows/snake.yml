@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -15,31 +15,24 @@ jobs:
       contents: write
       pages: write
       id-token: write
-    timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate customized dark snake
+      - name: Generate SVG snake (dark mode only)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
-          color_snake: "#00ffcc"
-          color_dots: "#161b22,#30363d,#484f58,#6e7681"
-          background: "#0d1117"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Debug – Confirm output
-        run: ls -l dist
-
-      - name: Upload artifact
+      - name: Upload artifact to GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: dist  # MUST match the output folder
 
   deploy:
     needs: build
