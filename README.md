@@ -5,13 +5,11 @@
 <div align="center">
 # JaiBansal007
   <!-- Snake animation -->
- <picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaiBansal007/JaiBansal007/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaiBansal007/JaiBansal007/output/github-contribution-grid-snake.svg#gh-light-mode-only">
     <img alt="github-snake" src="https://raw.githubusercontent.com/JaiBansal007/JaiBansal007/output/github-contribution-grid-snake.svg">
   </picture>
-
-</div>
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
