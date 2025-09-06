@@ -13,7 +13,7 @@
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    ![Visitor Count](https://profile-counter.glitch.me/JaiBansal007/count.svg)
+    ![](https://komarev.com/ghpvc/?username=JaiBansal007)
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br>
