@@ -36,6 +36,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=JaiBansal007&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /> -->
 
 <!-- Streak Stats right (60%) | About Me left (30%) | 5% padding each side -->
+<div>
 <img align="right" width="60%" src="https://streak-stats.demolab.com?user=JaiBansal007&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 
 <div width="30%" align="left" style="padding-left:5%; padding-right:5%;">
@@ -50,7 +51,7 @@
 - 👋 Connect With Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-bansal-423a73280)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jai_Bansal007)
   
 </div>
-
+</div>
 <!-- </div> -->
 <br>
 <div align="left">
