@@ -46,7 +46,7 @@
 - 🏆 Active on LeetCode, Codeforces & CodeChef
 - 📚 Diving deeper into System Design & DSA
 - 🌱 Always learning, always growing!
-- 👋 Connect With Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-bansal-423a73280)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jai_Bansal007)
+- 👋 **Connect With Me:** &nbsp;<a href="https://linkedin.com/in/jai-bansal-423a73280"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" align="absmiddle"/></a>&nbsp;&nbsp;<a href="https://x.com/Jai_Bansal007"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" align="absmiddle"/></a>
   
 </div>
 </div>
