@@ -18,39 +18,39 @@
      <img src="https://komarev.com/ghpvc/?username=JaiBansal007&style=for-the-badge">
     <!-- <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30"> -->
 </div>
-<br>
-<br>
+<!-- <br> -->
+<!-- <br> -->
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<div align="center">
+<!-- <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> -->
+<!-- <div align="center"> -->
 
-<img src="https://media.tenor.com/jU3MNsXcMbUAAAAd/spider-man-spiderman.gif" width="120"/>
+<!-- <img src="https://media.tenor.com/jU3MNsXcMbUAAAAd/spider-man-spiderman.gif" width="120"/> -->
 
 <!-- 🕸️ Spider-Verse GitHub Stats -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<img src="https://media.tenor.com/jU3MNsXcMbUAAAAd/spider-man-spiderman.gif" width="120"/>
+<!-- <img src="https://media.tenor.com/jU3MNsXcMbUAAAAd/spider-man-spiderman.gif" width="120"/> -->
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=JaiBansal007&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=JaiBansal007&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /> -->
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=JaiBansal007&theme=radical&hide_border=false" />
+<!-- <img src="https://streak-stats.demolab.com?user=JaiBansal007&theme=radical&hide_border=false" /> -->
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiBansal007&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiBansal007&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 
 
-</div>
+<!-- </div> -->
 
 <div align="left">
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-bansal-423a73280) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-bansal-423a73280) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jai_Bansal007)
   
 ## 💻 Tech Stack:
 
