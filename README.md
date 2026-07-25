@@ -3,7 +3,6 @@
 </p>
 
 <div align="center">
-# JaiBansal007
   <!-- Snake animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaiBansal007/JaiBansal007/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
@@ -45,15 +44,12 @@
 
 </div>
 
-
+<div align="left">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-bansal-423a73280) 
-
-
+  
 ## 💻 Tech Stack:
-
-<div align="left">
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
