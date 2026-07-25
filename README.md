@@ -1,3 +1,6 @@
+
+## Hi , I'm Jai Bansal a Competitive Programmer.
+
 <p align="center">
   <img src="cover_img.jpg" alt="cover_img"/>
 </p>
@@ -11,9 +14,9 @@
   </picture>
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <!-- <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30"> -->
      <img src="https://komarev.com/ghpvc/?username=JaiBansal007&style=for-the-badge">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <!-- <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30"> -->
 </div>
 <br>
 <br>
