@@ -92,10 +92,10 @@
 
 </div>
 
----
+
 [![](https://visitcount.itsvg.in/api?id=JaiBansal007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JaiBansal007&theme=react-dark)](https://github.com/JaiBansal007/github-readme-activity-graph)
+[![Jai Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JaiBansal007&theme=react-dark)](https://github.com/JaiBansal007/github-readme-activity-graph)
 
