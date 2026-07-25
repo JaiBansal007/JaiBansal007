@@ -4,7 +4,11 @@
 <p align="center">
   <img src="cover_img.jpg" alt="cover_img"/>
 </p>
-
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <!-- <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30"> -->
+     <img src="https://komarev.com/ghpvc/?username=JaiBansal007&style=for-the-badge">
+    <!-- <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30"> -->
+</div>
 <div align="center">
   <!-- Snake animation -->
   <picture>
@@ -12,12 +16,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaiBansal007/JaiBansal007/output/github-contribution-grid-snake.svg#gh-light-mode-only">
     <img alt="github-snake" src="https://raw.githubusercontent.com/JaiBansal007/JaiBansal007/output/github-contribution-grid-snake.svg">
   </picture>
-<br>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <!-- <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30"> -->
-     <img src="https://komarev.com/ghpvc/?username=JaiBansal007&style=for-the-badge">
-    <!-- <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30"> -->
-</div>
 <br>
 <!-- <br> -->
 
