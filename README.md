@@ -1,5 +1,5 @@
 
-## Hi , I'm Jai Bansal a Competitive Programmer.
+## 🕸️ Hi , I'm Jai Bansal a Competitive Programmer.
 
 <p align="center">
   <img src="cover_img.jpg" alt="cover_img"/>
