@@ -18,7 +18,7 @@
      <img src="https://komarev.com/ghpvc/?username=JaiBansal007&style=for-the-badge">
     <!-- <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30"> -->
 </div>
-<!-- <br> -->
+<br>
 <!-- <br> -->
 
 <!-- <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> -->
@@ -35,22 +35,25 @@
 <!-- GitHub Stats -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=JaiBansal007&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /> -->
 
-<!-- GitHub Streak -->
-<!-- <img src="https://streak-stats.demolab.com?user=JaiBansal007&theme=radical&hide_border=false" /> -->
+<!-- Streak Stats right (60%) | About Me left (30%) | 5% padding each side -->
+<img align="right" width="60%" src="https://streak-stats.demolab.com?user=JaiBansal007&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 
-<!-- Top Languages -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiBansal007&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
+<div width="30%" align="left" style="padding-left:5%; padding-right:5%;">
 
-<!-- <br/><br/> -->
+### 👨‍💻 WHO AM I?
 
-
+- 🎯 Competitive Programmer
+- 🚀 Full-Stack Developer
+- 🏆 Active on LeetCode, Codeforces & CodeChef
+- 📚 Diving deeper into System Design & DSA
+- 🌱 Always learning, always growing!
+- 👋 Connect With Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-bansal-423a73280)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jai_Bansal007)
+  
+</div>
 
 <!-- </div> -->
-
+<br>
 <div align="left">
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-bansal-423a73280) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jai_Bansal007)
   
 ## 💻 Tech Stack:
 
